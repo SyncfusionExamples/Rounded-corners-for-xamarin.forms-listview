@@ -10,16 +10,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Images\SortIcon.png" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <EmbeddedResource Include="Images\SortIcon.png" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <PackageReference Include="Syncfusion.Xamarin.SfListView" Version="17.1.0.52" />
-    <PackageReference Include="Xamarin.Forms" Version="4.0.0.497661" />
+    <PackageReference Include="Syncfusion.Xamarin.SfListView" Version="18.4.0.35" />
+    <PackageReference Include="Xamarin.Forms" Version="4.5.0.617" />
   </ItemGroup>
 
   <ItemGroup>
