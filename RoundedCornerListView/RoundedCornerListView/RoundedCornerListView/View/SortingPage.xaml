@@ -27,7 +27,7 @@
                 <DataTemplate>
                     <Frame x:Name="frame" CornerRadius="10"
                            BackgroundColor="#dfe0df"
-                           Padding="0" >
+                           Padding="0" HasShadow="False">
                         <StackLayout>
                             <Grid Grid.Column="0"
                                           RowSpacing="1"
