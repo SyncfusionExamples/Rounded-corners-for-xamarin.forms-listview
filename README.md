@@ -2,6 +2,9 @@
 
 The SfListView allows customizing the item appearance like rounded corner by using the Frame layout in the ItemTemplate property. By defining the CornerRadius property of frame layout, you can perform the rounded corner for items.
 
+You can also refer to the following article.
+https://www.syncfusion.com/kb/8493/how-to-achieve-rounded-corner-for-items-in-sflistview
+
 ```
 <StackLayout Spacing="0" Padding="0,5,0,0" BackgroundColor="LightGray">
     <sync:SfListView x:Name="listView"
